@@ -14,6 +14,8 @@ This script needs to be run on an Anaconda Python kernel with the Pandas library
 ## Usage
 If you open the script and run it, you can view all the results. However, if you want to run it again, it could display errors because some data frames are modified. To solve this, you need to restart your kernel.
 
+If you don't see any plot chart maybe you need to set up how you want to plot the charts with `%matplotlib inline` or `matplotlib notebook`
+
 ## Credits
 the script was originally created by Alvaro Corona 
 (https://github.com/AlTesla)
